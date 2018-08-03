@@ -1,0 +1,22 @@
+body {
+  background: #FFFFFF;
+  color: #FFFFFF;
+  font-size: 22px;
+}
+span {
+  display: inline-block;
+  padding: 6px 6px 4px;
+  border-radius: 3px;
+  background: #FFFFFF;
+  margin-right: -2px;
+}
+.center {
+  text-align: center;
+  width: 50%;
+  margin: 10px auto;
+}
+.message {
+  color: #FFFFFF;
+  font-family: Verdana;
+  font-size: 12px;
+}
